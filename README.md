@@ -3,6 +3,8 @@ A Go data structure benchmark
 
 This is an experiment to determine the best way to store elements indexed by an integer in Go.
 
+TL;DR, skip to [the results](#user-content-test-results)
+
 The "best way" is of course relative to the scenario in which the storage will be used. My focus will mostly be on the following scenario:
 
 - The storage system may be static
