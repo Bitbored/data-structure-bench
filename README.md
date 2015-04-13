@@ -120,7 +120,7 @@ go test -benchmem -test.bench . -elements [amount of elements (default=100)]
 ```
 *in the folder of the structure type you want to test.*
 
-Note that the benchmarks for the BST will usually take a *long* time to execute for big data sets(> 100000 elements), so unless you have a crazy fast supercomputer, you will have to use the `-benchtime` [test flag](https://golang.org/cmd/go/)(something like 12h should suffice). 
+Note that the benchmarks for the BST will usually take a **long** time to execute for big data sets(> 100000 elements), so unless you have a crazy fast supercomputer, you will have to use the `-benchtime` [test flag](https://golang.org/cmd/go/)(something like 12h should suffice). 
 
 
 You can than store the results in the CSV files under `/results`, and if you want you can generate nice some plots from the test data using:
