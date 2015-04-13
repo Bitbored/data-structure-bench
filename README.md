@@ -76,7 +76,7 @@ elements | BST worst case | BST best case | LLRB    | Map    | Slice
 
 The average time required to get a single element from the structure relative to the size of the structure.
 
-### [Raw data](results/lookup_times.csv)
+### [Raw data](https://cdn.rawgit.com/Bitbored/data-structure-bench/master/results/lookup_times.svg)
 
 elements | BST worst case | BST best case | LLRB    | Map   | Slice
 ---------|----------------|---------------|---------|-------|------
