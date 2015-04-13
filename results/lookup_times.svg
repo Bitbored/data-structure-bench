@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg 
+ width="728" height="600"
+ viewBox="0 0 728 600"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+<title>Gnuplot</title>
+<desc>Produced by GNUPLOT 5.0 patchlevel 0 </desc>
+
+<g id="gnuplot_canvas">
+
+<rect x="0" y="0" width="728" height="600" fill="none"/>
+<defs>
+
+	<circle id='gpDot' r='0.5' stroke-width='0.5'/>
+	<path id='gpPt0' stroke-width='0.222' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+	<path id='gpPt1' stroke-width='0.222' stroke='currentColor' d='M-1,-1 L1,1 M1,-1 L-1,1'/>
+	<path id='gpPt2' stroke-width='0.222' stroke='currentColor' d='M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1'/>
+	<rect id='gpPt3' stroke-width='0.222' stroke='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<rect id='gpPt4' stroke-width='0.222' stroke='currentColor' fill='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<circle id='gpPt5' stroke-width='0.222' stroke='currentColor' cx='0' cy='0' r='1'/>
+	<use xlink:href='#gpPt5' id='gpPt6' fill='currentColor' stroke='none'/>
+	<path id='gpPt7' stroke-width='0.222' stroke='currentColor' d='M0,-1.33 L-1.33,0.67 L1.33,0.67 z'/>
+	<use xlink:href='#gpPt7' id='gpPt8' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt7' id='gpPt9' stroke='currentColor' transform='rotate(180)'/>
+	<use xlink:href='#gpPt9' id='gpPt10' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt3' id='gpPt11' stroke='currentColor' transform='rotate(45)'/>
+	<use xlink:href='#gpPt11' id='gpPt12' fill='currentColor' stroke='none'/>
+	<path id='gpPt13' stroke-width='0.222' stroke='currentColor' d='M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z'/>
+	<use xlink:href='#gpPt13' id='gpPt14' fill='currentColor' stroke='none'/>
+	<filter id='textbox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='white' flood-opacity='1' result='bgnd'/>
+	  <feComposite in='SourceGraphic' in2='bgnd' operator='atop'/>
+	</filter>
+	<filter id='greybox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='lightgrey' flood-opacity='1' result='grey'/>
+	  <feComposite in='SourceGraphic' in2='grey' operator='atop'/>
+	</filter>
+</defs>
+<g fill="none" color="white" stroke="rgb(128, 128, 128)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,542.4 L703.0,542.4  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,542.4 L105.8,542.4  '/>	<g transform="translate(88.5,546.9)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 1</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,519.8 L101.3,519.8 M96.8,489.9 L101.3,489.9 M96.8,474.6 L101.3,474.6  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,467.3 L703.0,467.3  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,467.3 L105.8,467.3  '/>	<g transform="translate(88.5,471.8)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 10</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,444.7 L101.3,444.7 M96.8,414.8 L101.3,414.8 M96.8,399.5 L101.3,399.5  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,392.2 L703.0,392.2  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,392.2 L105.8,392.2  '/>	<g transform="translate(88.5,396.7)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 100</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,369.6 L101.3,369.6 M96.8,339.7 L101.3,339.7 M96.8,324.4 L101.3,324.4  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,317.1 L703.0,317.1  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,317.1 L105.8,317.1  '/>	<g transform="translate(88.5,321.6)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 1000</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,294.5 L101.3,294.5 M96.8,264.6 L101.3,264.6 M96.8,249.3 L101.3,249.3  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,242.0 L703.0,242.0  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,242.0 L105.8,242.0  '/>	<g transform="translate(88.5,246.5)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 10000</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,219.4 L101.3,219.4 M96.8,189.5 L101.3,189.5 M96.8,174.2 L101.3,174.2  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,166.9 L703.0,166.9  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,166.9 L105.8,166.9  '/>	<g transform="translate(88.5,171.4)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 100000</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,144.3 L101.3,144.3 M96.8,114.4 L101.3,114.4 M96.8,99.1 L101.3,99.1  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,91.8 L105.1,91.8 M280.1,91.8 L703.0,91.8  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,91.8 L105.8,91.8  '/>	<g transform="translate(88.5,96.3)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 1x10</tspan><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif"  font-size="9.6" dy="-6.00px">6</tspan><tspan font-size="12.0" dy="6.00"></tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,69.2 L101.3,69.2 M96.8,39.3 L101.3,39.3 M96.8,24.0 L101.3,24.0  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,16.7 L703.0,16.7  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,16.7 L105.8,16.7  '/>	<g transform="translate(88.5,21.2)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 1x10</tspan><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif"  font-size="9.6" dy="-6.00px">7</tspan><tspan font-size="12.0" dy="6.00"></tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M96.8,542.4 L96.8,16.7  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,542.4 L96.8,533.4  '/>	<g transform="translate(96.8,564.9)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 10</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M133.3,542.4 L133.3,537.9 M181.5,542.4 L181.5,537.9 M206.3,542.4 L206.3,537.9  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M218.0,542.4 L218.0,115.7 M218.0,25.7 L218.0,16.7  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M218.0,542.4 L218.0,533.4  '/>	<g transform="translate(218.0,564.9)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 100</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M254.5,542.4 L254.5,537.9 M302.8,542.4 L302.8,537.9 M327.5,542.4 L327.5,537.9  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M339.3,542.4 L339.3,16.7  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M339.3,542.4 L339.3,533.4  '/>	<g transform="translate(339.3,564.9)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 1000</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M375.8,542.4 L375.8,537.9 M424.0,542.4 L424.0,537.9 M448.8,542.4 L448.8,537.9  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M460.5,542.4 L460.5,16.7  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M460.5,542.4 L460.5,533.4  '/>	<g transform="translate(460.5,564.9)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 10000</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M497.0,542.4 L497.0,537.9 M545.3,542.4 L545.3,537.9 M570.0,542.4 L570.0,537.9  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M581.8,542.4 L581.8,16.7  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M581.8,542.4 L581.8,533.4  '/>	<g transform="translate(581.8,564.9)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 100000</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M618.3,542.4 L618.3,537.9 M666.5,542.4 L666.5,537.9 M691.3,542.4 L691.3,537.9  '/></g>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)' stroke-dasharray='2,4' class="gridline"  d='M703.0,542.4 L703.0,16.7  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M703.0,542.4 L703.0,533.4  '/>	<g transform="translate(703.0,564.9)" stroke="none" fill="rgb(128,128,128)" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" > 1x10</tspan><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif"  font-size="9.6" dy="-6.00px">6</tspan><tspan font-size="12.0" dy="6.00"></tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(128, 128, 128)'  d='M96.8,16.7 L96.8,542.4 L703.0,542.4 M703.0,16.7 M96.8,16.7  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(17.6,279.6) rotate(270)" stroke="none" fill="black" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" >Average lookup time (ns)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(399.9,591.9)" stroke="none" fill="black" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" >Number of elements</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1" ><title>BST worst case</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(221.3,39.2)" stroke="none" fill="black" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" >BST worst case</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(148,   0, 211)'  d='M229.6,34.7 L271.8,34.7 M96.8,439.2 L218.0,360.4 L339.3,284.3 L460.5,207.4 L581.8,123.1 L703.0,44.9
+		 '/></g>
+	</g>
+	<g id="gnuplot_plot_2" ><title>BST best case</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(221.3,57.2)" stroke="none" fill="black" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" >BST best case</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(  0, 158, 115)'  d='M229.6,52.7 L271.8,52.7 M96.8,459.0 L218.0,439.3 L339.3,405.1 L460.5,397.5 L581.8,389.1 L703.0,376.3
+		 '/></g>
+	</g>
+	<g id="gnuplot_plot_3" ><title>LLRB</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(221.3,75.2)" stroke="none" fill="black" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" >LLRB</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb( 86, 180, 233)'  d='M229.6,70.7 L271.8,70.7 M96.8,342.7 L218.0,326.6 L339.3,314.0 L460.5,304.2 L581.8,297.9 L703.0,291.6
+		 '/></g>
+	</g>
+	<g id="gnuplot_plot_4" ><title>Map</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(221.3,93.2)" stroke="none" fill="black" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" >Map</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(230, 159,   0)'  d='M229.6,88.7 L271.8,88.7 M96.8,449.0 L218.0,446.1 L339.3,430.6 L460.5,421.0 L581.8,406.3 L703.0,395.3
+		 '/></g>
+	</g>
+	<g id="gnuplot_plot_5" ><title>Slice</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(221.3,111.2)" stroke="none" fill="black" font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" font-size="12.00"  text-anchor="end">
+		<text><tspan font-family="Helvetica Neue, Helvetica, Segoe UI, Arial, freesans, sans-serif" >Slice</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(240, 228,  66)'  d='M229.6,106.7 L271.8,106.7 M96.8,488.3 L218.0,488.2 L339.3,490.2 L460.5,489.9 L581.8,489.4 L703.0,489.5
+		 '/></g>
+	</g>
+<g fill="none" color="white" stroke="rgb(240, 228,  66)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+</g>
+</svg>
+
