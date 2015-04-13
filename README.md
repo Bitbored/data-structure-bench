@@ -70,7 +70,7 @@ elements | BST worst case | BST best case | LLRB    | Map    | Slice
  1000000 |    60759419.24 |        658.21 | 2973.17 | 275.94 | 66.09
 
 ### Graph
-![Lookup times](results/insert_times.svg)
+![Lookup times](https://cdn.rawgit.com/Bitbored/data-structure-bench/master/results/insert_times.svg)
 
 ## Lookup times
 
@@ -107,7 +107,7 @@ elements | BST worst case | BST best case | LLRB  | Map   | Slice
  1000000 |          64.00 |         74.72 | 96.00 | 40.27 | 16.80
 
 ### Graph
-![Memory usage](results/memory_usage.svg)
+![Memory usage](https://cdn.rawgit.com/Bitbored/data-structure-bench/master/results/memory_usage.svg)
 
 # Replicating the experiment
 
